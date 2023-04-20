@@ -1,1 +1,1 @@
-{"base": "bc21ea7", "parent": "debian/rolling/apriltag_msgs", "previous": "cf1405d", "trim": "", "trimbase": ""}
+{"base": "21768b2", "parent": "debian/iron/apriltag_msgs", "previous": "38e2f87", "trim": "", "trimbase": ""}
