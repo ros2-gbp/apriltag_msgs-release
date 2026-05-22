@@ -8,14 +8,14 @@ jobs:
     runs-on: ubuntu-latest
 
     container:
-      image: ubuntu:22.04
+      image: ubuntu:26.04
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v6
 
-    - uses: ros-tooling/setup-ros@v0.4
+    - uses: ros-tooling/setup-ros@v0.7
 
-    - uses: ros-tooling/action-ros-ci@v0.2
+    - uses: ros-tooling/action-ros-ci@v0.4
       with:
         package-name: apriltag_msgs
-        target-ros2-distro: humble
+        target-ros2-distro: lyrical
