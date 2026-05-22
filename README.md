@@ -1,3 +1,26 @@
+## apriltag_msgs (rolling) - 2.0.2-1
+
+The packages in the `apriltag_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release apriltag_msgs --rosdistro rolling` on `Fri, 22 May 2026 23:10:27 -0000`
+
+The `apriltag_msgs` package was released.
+
+Version of package(s) in repository `apriltag_msgs`:
+
+- upstream repository: https://github.com/christianrauch/apriltag_msgs.git
+- release repository: https://github.com/ros2-gbp/apriltag_msgs-release.git
+- rosdistro version: `2.0.1-5`
+- old version: `2.0.1-5`
+- new version: `2.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## apriltag_msgs (lyrical) - 2.0.2-1
 
 The packages in the `apriltag_msgs` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release apriltag_msgs --rosdistro lyrical` on `Fri, 22 May 2026 23:09:24 -0000`
